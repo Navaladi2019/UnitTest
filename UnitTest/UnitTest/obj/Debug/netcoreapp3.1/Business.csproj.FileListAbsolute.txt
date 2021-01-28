@@ -1,0 +1,12 @@
+C:\Studies\FullStack\UnitTest\UnitTest\bin\Debug\netcoreapp3.1\Business.exe
+C:\Studies\FullStack\UnitTest\UnitTest\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Studies\FullStack\UnitTest\UnitTest\bin\Debug\netcoreapp3.1\Business.runtimeconfig.json
+C:\Studies\FullStack\UnitTest\UnitTest\bin\Debug\netcoreapp3.1\Business.runtimeconfig.dev.json
+C:\Studies\FullStack\UnitTest\UnitTest\bin\Debug\netcoreapp3.1\Business.dll
+C:\Studies\FullStack\UnitTest\UnitTest\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Studies\FullStack\UnitTest\UnitTest\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Studies\FullStack\UnitTest\UnitTest\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Studies\FullStack\UnitTest\UnitTest\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Studies\FullStack\UnitTest\UnitTest\obj\Debug\netcoreapp3.1\Business.dll
+C:\Studies\FullStack\UnitTest\UnitTest\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Studies\FullStack\UnitTest\UnitTest\obj\Debug\netcoreapp3.1\Business.genruntimeconfig.cache

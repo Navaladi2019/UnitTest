@@ -1,0 +1,27 @@
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\Sticks\bin\Debug\Sticks.exe.config
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\Sticks\bin\Debug\Sticks.exe
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\Sticks\bin\Debug\Sticks.pdb
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\Sticks\obj\Debug\Sticks.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\Sticks\obj\Debug\Sticks.exe
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\Sticks\obj\Debug\Sticks.pdb
+C:\Users\Илья\documents\visual studio 2017\Projects\UnitTestingCourse\Sticks\bin\Debug\Sticks.Core.dll
+C:\Users\Илья\documents\visual studio 2017\Projects\UnitTestingCourse\Sticks\bin\Debug\Sticks.Core.pdb
+Q:\OneDrive\Documents\Udemy-Course\07-Unit Testing\UnitTestingCourse\UnitTestingCourse\Sticks\bin\Debug\Sticks.exe.config
+Q:\OneDrive\Documents\Udemy-Course\07-Unit Testing\UnitTestingCourse\UnitTestingCourse\Sticks\bin\Debug\Sticks.exe
+Q:\OneDrive\Documents\Udemy-Course\07-Unit Testing\UnitTestingCourse\UnitTestingCourse\Sticks\bin\Debug\Sticks.pdb
+Q:\OneDrive\Documents\Udemy-Course\07-Unit Testing\UnitTestingCourse\UnitTestingCourse\Sticks\bin\Debug\Sticks.Core.dll
+Q:\OneDrive\Documents\Udemy-Course\07-Unit Testing\UnitTestingCourse\UnitTestingCourse\Sticks\bin\Debug\Sticks.Core.pdb
+Q:\OneDrive\Documents\Udemy-Course\07-Unit Testing\UnitTestingCourse\UnitTestingCourse\Sticks\obj\Debug\Sticks.csprojAssemblyReference.cache
+Q:\OneDrive\Documents\Udemy-Course\07-Unit Testing\UnitTestingCourse\UnitTestingCourse\Sticks\obj\Debug\Sticks.csproj.CoreCompileInputs.cache
+Q:\OneDrive\Documents\Udemy-Course\07-Unit Testing\UnitTestingCourse\UnitTestingCourse\Sticks\obj\Debug\Sticks.csproj.CopyComplete
+Q:\OneDrive\Documents\Udemy-Course\07-Unit Testing\UnitTestingCourse\UnitTestingCourse\Sticks\obj\Debug\Sticks.exe
+Q:\OneDrive\Documents\Udemy-Course\07-Unit Testing\UnitTestingCourse\UnitTestingCourse\Sticks\obj\Debug\Sticks.pdb
+C:\Studies\FullStack\UnitTestingCourse\Sticks\bin\Debug\Sticks.exe.config
+C:\Studies\FullStack\UnitTestingCourse\Sticks\bin\Debug\Sticks.exe
+C:\Studies\FullStack\UnitTestingCourse\Sticks\bin\Debug\Sticks.pdb
+C:\Studies\FullStack\UnitTestingCourse\Sticks\bin\Debug\Sticks.Core.dll
+C:\Studies\FullStack\UnitTestingCourse\Sticks\bin\Debug\Sticks.Core.pdb
+C:\Studies\FullStack\UnitTestingCourse\Sticks\obj\Debug\Sticks.csprojAssemblyReference.cache
+C:\Studies\FullStack\UnitTestingCourse\Sticks\obj\Debug\Sticks.csproj.CopyComplete
+C:\Studies\FullStack\UnitTestingCourse\Sticks\obj\Debug\Sticks.exe
+C:\Studies\FullStack\UnitTestingCourse\Sticks\obj\Debug\Sticks.pdb
